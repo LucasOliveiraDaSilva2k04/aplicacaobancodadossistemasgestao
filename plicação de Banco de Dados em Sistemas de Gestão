@@ -13,8 +13,6 @@ O repositório está organizado da seguinte forma:
 
 artigo/ – Artigo científico elaborado conforme as normas da ABNT;
 banco-de-dados/ – Scripts SQL, modelo lógico e Diagrama Entidade-Relacionamento (DER);
-apresentacao/ – Pôster científico do projeto;
-imagens/ – Diagramas e figuras utilizadas no trabalho;
 docs/ – Documentação complementar.
 Tecnologias Utilizadas
 SQL
@@ -32,7 +30,5 @@ Autor
 Lucas Oliveira
 
 Curso: Análise e Desenvolvimento de Sistemas
-
-Instituição de Ensino: (Preencher conforme a instituição.)
 
 Ano: 2026.
