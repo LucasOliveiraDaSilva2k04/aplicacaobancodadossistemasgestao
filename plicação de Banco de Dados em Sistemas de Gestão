@@ -1,0 +1,38 @@
+Aplicação de Banco de Dados em Sistemas de Gestão: A Influência da Modelagem de Dados no Desempenho de Sistemas Corporativos
+Resumo
+
+Este repositório reúne os materiais desenvolvidos para o Projeto Integrador do curso de Análise e Desenvolvimento de Sistemas. O estudo analisa a influência da modelagem de bancos de dados no desempenho de sistemas corporativos, destacando sua importância para a organização, integridade e eficiência das informações. A pesquisa fundamenta-se em revisão bibliográfica e na elaboração de um modelo de banco de dados para um sistema de gestão, permitindo avaliar os benefícios da aplicação de técnicas de modelagem, normalização e definição de relacionamentos entre entidades. Os resultados evidenciam que uma modelagem adequada contribui para a redução da redundância de dados, melhoria do desempenho das consultas, maior consistência das informações e facilidade de manutenção e expansão dos sistemas.
+
+Objetivo
+
+Analisar a influência da modelagem de bancos de dados no desempenho de sistemas corporativos, demonstrando como uma estrutura de dados bem planejada contribui para a eficiência, confiabilidade e escalabilidade das aplicações.
+
+Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+artigo/ – Artigo científico elaborado conforme as normas da ABNT;
+banco-de-dados/ – Scripts SQL, modelo lógico e Diagrama Entidade-Relacionamento (DER);
+apresentacao/ – Pôster científico do projeto;
+imagens/ – Diagramas e figuras utilizadas no trabalho;
+docs/ – Documentação complementar.
+Tecnologias Utilizadas
+SQL
+Sistema Gerenciador de Banco de Dados Relacional (SGBDR)
+Modelagem Entidade-Relacionamento (DER)
+Referências Bibliográficas
+DATE, C. J. Introdução a Sistemas de Bancos de Dados. 8. ed. Rio de Janeiro: Elsevier, 2004.
+ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados. 7. ed. São Paulo: Pearson Education do Brasil, 2019.
+HEUSER, C. A. Projeto de Banco de Dados. 6. ed. Porto Alegre: Bookman, 2009.
+KORTH, H. F.; SILBERSCHATZ, A.; SUDARSHAN, S. Sistema de Banco de Dados. 6. ed. Rio de Janeiro: Elsevier, 2012.
+PRESSMAN, R. S.; MAXIM, B. R. Engenharia de Software: Uma Abordagem Profissional. 9. ed. Porto Alegre: AMGH, 2021.
+SOMMERVILLE, I. Engenharia de Software. 10. ed. São Paulo: Pearson Education do Brasil, 2019.
+Autor
+
+Lucas Oliveira
+
+Curso: Análise e Desenvolvimento de Sistemas
+
+Instituição de Ensino: (Preencher conforme a instituição.)
+
+Ano: 2026.
